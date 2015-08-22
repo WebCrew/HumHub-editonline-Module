@@ -8,7 +8,7 @@
  * @package   hh_edit_online
  * @author    Andreas Holzer <palareas@gmail.com>
  * @copyright 2015 Andreas Holzer
- * @license   GPL v3
+ * @license   MIT
  * @link      http://web-crew.org
  */
 
