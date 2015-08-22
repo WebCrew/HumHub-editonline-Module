@@ -1,4 +1,6 @@
-hh_edit_online a module for HumHub CMS
-Copyright 2015 by Web-Crew.org / Andreas Holzer
+HumHub-editonline-Module
+Version 1.0
 
-First VERSION 1.0
+At the moment no changes.
+
+Copyright 2015 by Web-Crew.org / Andreas Holzer
