@@ -1,0 +1,13 @@
+{
+    "id": "editonline",
+    "name": "Edit Online",
+    "description": "Adds an top navigation item for Edit Online Module. If You run into some problems - read the README.md file please. For further help You can use the HumHub forums and write a message to Andreas Holzer.",
+    "keywords": [
+             "core"
+             "editonline"
+             "Andreas Holzer"
+             "themes editor module"
+             "module"
+    ],
+    "version": "1.0"
+}
