@@ -3,7 +3,7 @@ humhub-module: HH Edit Online
 
 A module for administrators to edit HumHub themes online.
 
-Note: The module is a work in progress. At the moment You can already use it, its working, but we`ve not integrated all planned features right now. There is still the syntax highliting and line numbering to do. We want to use http://prismjs.com/ for it. Also, the style and the responsive feature has to be improved.
+Note: The module is a work in progress. At the moment You can already use it, its working, but we`ve not integrated all planned features right now. There is still the syntax highliting and line numbering to do. It would be awesome to integrate ACE http://ace.c9.io/ into the module. Also, the style and the responsive feature has to be improved.
 
 You`re welcome to help us solve the issues and to make our module pervect ;)
 
