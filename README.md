@@ -7,6 +7,8 @@ Note: The module is a work in progress. At the moment You can already use it, it
 
 You`re welcome to help us solve the issues and to make our module pervect ;)
 
+NOTE: The Module has only support for HumHub version up to 1.0.0
+
 
 How to install:
 ---------------
